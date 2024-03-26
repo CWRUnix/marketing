@@ -1,0 +1,70 @@
+html, body {
+    --size: 20px;
+    --scale: 1;
+    font-family: DejavuMono, monospace;
+    max-width: 100ch; 
+}
+
+div {
+    position: relative;
+}
+
+.margin {
+    margin: 1em 1ch;
+}
+
+html, body, h1, h2, h3, h4, h5, h6, p, pre {
+    margin: 0;
+    font-size: var(--real-size);
+    line-height: var(--real-size);
+    --real-size: calc(var(--size) * var(--scale));
+}
+
+p {
+    margin: 1em 0;
+    max-width: 60ch;
+}
+
+h1 {
+    --scale: 4;
+}
+
+h2 {
+    --scale: 3;
+}
+
+h3 {
+    --scale: 2;
+}
+
+h4 {
+    --scale: 2;
+}
+
+h5 {
+    --scale: 1.5;
+}
+
+.inline {
+    display: inline-block;
+    vertical-align: top;
+}
+.half {--scale: 0.5;}
+.qr {--scale: 0.3;}
+.grey {color: grey;}
+.right {float:right;}
+
+@font-face {
+    font-family: FiraCode;
+    src: url(./Fira_Code_v6.2/woff/FiraCode-Regular.woff);
+}
+
+@font-face {
+    font-family: DejavuMono;
+    src: url(./fonts/DejaVuSansMono/DejaVuSansMNerdFont-Regular.ttf);
+}
+
+@font-face {
+    font-family: ComicMono;
+    src: url(./ComicMono.ttf);
+}
