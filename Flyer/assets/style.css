@@ -53,6 +53,8 @@ h5 {
 .qr {--scale: 0.3;}
 .grey {color: grey;}
 .right {float:right;}
+.highlight {background-color: yellow;}
+.bold {font-weight:bold;}
 
 @font-face {
     font-family: FiraCode;
