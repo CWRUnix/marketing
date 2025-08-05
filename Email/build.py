@@ -20,4 +20,9 @@ for [name, role] in roles:
         inkscape -o "out/{name}.svg" --export-type=svg "out/{name}.svg"
     '''
 
+script += '''
+    cd out
+    mogrify -format png -density 500 -background white *.svg
+'''
+
 _ = subprocess.run(["bash", "-c", script], check=True)
