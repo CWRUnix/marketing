@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-nix build --experimental-features "nix-command flakes" .#deploy
+nix build --experimental-features "nix-command flakes" .#
