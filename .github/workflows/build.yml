@@ -20,4 +20,4 @@ jobs:
           sh build.sh
       - uses: ncipollo/release-action@v1
         with:
-          artifacts: "result/*"
+          artifacts: "result/**/*"
