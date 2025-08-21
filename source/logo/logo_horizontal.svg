@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="62.891148mm"
+   height="39.833282mm"
+   viewBox="0 0 62.891148 39.833283"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="logo_horizontal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.0278998"
+     inkscape:cx="115.19651"
+     inkscape:cy="96.203982"
+     inkscape:window-width="2560"
+     inkscape:window-height="1579"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="62.891148"
+       height="39.833282"
+       id="page8"
+       margin="5"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid"
+       inkscape:label="FG">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch1"
+       id="linearGradient1"
+       x1="61.363889"
+       y1="161.93388"
+       x2="88.947829"
+       y2="161.93388"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch1"
+       id="linearGradient2"
+       x1="88.94783"
+       y1="161.93374"
+       x2="114.25504"
+       y2="161.93374"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-56.363889,-142.0171)">
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:url(#linearGradient2);stroke-width:0.264583"
+       x="88.94783"
+       y="148.2464"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono Bold';stroke-width:0.264583;fill:url(#linearGradient2)"
+         x="88.94783"
+         y="148.2464">    .---.</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono Bold';stroke-width:0.264583;fill:url(#linearGradient2)"
+         x="88.94783"
+         y="152.24615"
+         id="tspan2">   /     \</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono Bold';stroke-width:0.264583;fill:url(#linearGradient2)"
+         x="88.94783"
+         y="156.24591"
+         id="tspan3">   \.@-@./</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono Bold';stroke-width:0.264583;fill:url(#linearGradient2)"
+         x="88.94783"
+         y="160.24567"
+         id="tspan4">   /`\_/`\</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono Bold';stroke-width:0.264583;fill:url(#linearGradient2)"
+         x="88.94783"
+         y="164.24542"
+         id="tspan5">  //     \\</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono Bold';stroke-width:0.264583;fill:url(#linearGradient2)"
+         x="88.94783"
+         y="168.24518"
+         id="tspan6"> | (     )|_</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono Bold';stroke-width:0.264583;fill:url(#linearGradient2)"
+         x="88.94783"
+         y="172.24493"
+         id="tspan7">/`\_`&gt;  &lt;_/ \</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono Bold';stroke-width:0.264583;fill:url(#linearGradient2)"
+         x="88.94783"
+         y="176.24469"
+         id="tspan8">\__/'---'\__/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.1353px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:url(#linearGradient1);stroke-width:0.761274"
+       x="61.045322"
+       y="153.67444"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono Bold';stroke-width:0.761274;fill:url(#linearGradient1)"
+         x="61.045322"
+         y="153.67444">CWRU</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono Bold';stroke-width:0.761274;fill:url(#linearGradient1)"
+         x="61.045322"
+         y="165.18277"
+         id="tspan10">Linux</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono Bold';stroke-width:0.761274;fill:url(#linearGradient1)"
+         x="61.045322"
+         y="176.69112"
+         id="tspan11">Club</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+[
+    {
+        "id": "Trevor",
+        "NAME": "Trevor Nichols",
+        "ROLE": "President and Treasurer"
+    },
+    {
+        "id": "Wolf",
+        "NAME": "Wolf Mermelstein",
+        "ROLE": "VP and Treasurer"
+    },
+    {
+        "id": "Evan",
+        "NAME": "Evan Harnak",
+        "ROLE": "Secretary"
+    },
+    {
+        "id": "Matias",
+        "NAME": "Matias Torres",
+        "ROLE": "Risk Manager"
+    },
+    {
+        "id": "Remy",
+        "NAME": "Remy Dai",
+        "ROLE": "Designer"
+    }
+]

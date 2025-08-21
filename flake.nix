@@ -39,7 +39,7 @@
         apps = rec {
         };
         packages = rec {
-          signatures = pkgs.callPackage ./Email/build.nix { };
+          signatures = pkgs.callPackage ./build.nix { };
           default = signatures;
         };
       }
