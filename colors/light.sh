@@ -1,2 +1,2 @@
-export BG="#191919"
-export FG="#DDDBD7"
+export FG="#191919"
+export BG="#DDDBD7"
