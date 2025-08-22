@@ -1,2 +1,2 @@
-export FG="#191919"
-export BG="#DDDBD7"
+export FG="#1c1c1c"
+export BG="#f5f3ef"
