@@ -1,4 +1,4 @@
-{ stdenv, imagemagick, envsubst, python3Full, zip, util-linux, inkscape, dejavu_fonts, xmlstarlet, nerd-fonts, ... }:
+{ stdenv, imagemagick, envsubst, python3Full, zip, util-linux, inkscape-with-extensions, dejavu_fonts, xmlstarlet, nerd-fonts, ... }:
 stdenv.mkDerivation {
   pname = "CWRUnixBranding";
   version = "1.0.1";
@@ -11,7 +11,7 @@ stdenv.mkDerivation {
     python3Full
     zip
     util-linux
-    inkscape
+    inkscape-with-extensions
     xmlstarlet
     
     dejavu_fonts
@@ -19,6 +19,13 @@ stdenv.mkDerivation {
   ];
 
   buildPhase = ''
+    set -euxo pipefail
+    mkdir -p ./out
+
+    # Make home for inkscape
+    export HOME=$(realpath ./home)
+    mkdir -p $HOME
+
     python build.py
   '';
 

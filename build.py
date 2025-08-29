@@ -10,14 +10,7 @@ svgs = list(Path("./source").glob("**/*.svg"))
 
 sizes = [ 500, 10000 ]
 
-script = '''
-    set -euxo pipefail
-    mkdir -p ./out
-
-    # Make home for inkscape
-    mkdir ./home
-    export HOME=$(realpath ./home)
-'''
+script = ""
 
 for svg in svgs:
     for size in sizes:
