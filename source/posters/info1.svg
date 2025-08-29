@@ -45,16 +45,6 @@
   <defs
      id="defs1">
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch4015"
-       id="linearGradient4016"
-       gradientUnits="userSpaceOnUse"
-       x1="-2628.4341"
-       y1="1377.2192"
-       x2="-927.30652"
-       y2="1377.2192"
-       gradientTransform="matrix(0.26458333,0,0,0.26458333,626.11902,-239.92711)" />
-    <linearGradient
        id="swatch4015"
        inkscape:swatch="solid"
        inkscape:label="BG">
@@ -205,14 +195,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(69.320841,231.24583)">
-    <rect
-       style="vector-effect:none;fill:url(#linearGradient4016);fill-opacity:1;stroke-width:0.24551;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
-       id="rect1109"
-       width="450.09"
-       height="711.41595"
-       x="-69.320839"
-       y="-231.24583"
-       inkscape:label="bg" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;line-height:normal;font-family:DejaVuSansMono-Bold, 'DejaVu Sans Mono';-inkscape-font-specification:'DejaVuSansMono-Bold, DejaVu Sans Mono Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;display:inline;vector-effect:none;fill:url(#linearGradient47);fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
