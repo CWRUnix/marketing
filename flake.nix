@@ -39,7 +39,8 @@
         apps = rec {
         };
         packages = rec {
-          signatures = pkgs.callPackage ./build.nix { };
+          signatures = pkgs.callPackage ./nix/build.nix { tar = false; };
+          zipped = pkgs.callPackage ./nix/build.nix { tar = true; };
           default = signatures;
         };
       }

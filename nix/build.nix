@@ -1,9 +1,11 @@
-{ stdenv, imagemagick, envsubst, python3Full, zip, util-linux, inkscape-with-extensions, dejavu_fonts, xmlstarlet, nerd-fonts, ... }:
+{ stdenv, imagemagick, envsubst, python3Full, zip, util-linux, inkscape-with-extensions, dejavu_fonts, xmlstarlet, nerd-fonts, gnutar,
+  tar ? false, 
+  ... }:
 stdenv.mkDerivation {
   pname = "CWRUnixBranding";
   version = "1.0.1";
 
-  src = ./.;
+  src = ./..;
 
   nativeBuildInputs = [
     imagemagick
@@ -16,6 +18,7 @@ stdenv.mkDerivation {
     
     dejavu_fonts
     nerd-fonts.fira-code
+    gnutar
   ];
 
   buildPhase = ''
@@ -31,6 +34,5 @@ stdenv.mkDerivation {
 
   installPhase = ''
     mkdir -p $out
-    cp -r out/source/* $out
-  '';
+  '' + (if tar then "tar -czvf $out/media.tgz out/source/*" else "cp -r out/source/* $out");
 }
