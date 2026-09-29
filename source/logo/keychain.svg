@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="65.33139mm"
-   height="34.310356mm"
-   viewBox="0 0 65.33139 34.310357"
+   width="48.768425mm"
+   height="43.31036mm"
+   viewBox="0 0 48.768425 43.310361"
    version="1.1"
    id="svg1"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="keychain.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    inkscape:export-filename="Leut Cookout Flyer final.pdf"
    inkscape:export-xdpi="96"
@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="154.85638"
-     inkscape:cy="43.929008"
+     inkscape:zoom="4"
+     inkscape:cx="106.5"
+     inkscape:cy="79.874999"
      inkscape:window-width="2560"
      inkscape:window-height="1579"
      inkscape:window-x="0"
@@ -37,10 +37,10 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:page
-       x="0"
-       y="0"
-       width="65.33139"
-       height="34.310356"
+       x="8.24084e-07"
+       y="3.0309756e-08"
+       width="48.768425"
+       height="43.31036"
        id="page759"
        margin="5.0000005"
        bleed="0" />
@@ -118,6 +118,33 @@
        gradientTransform="matrix(0.14923932,0,0,0.14923932,108.52949,207.06908)" />
     <linearGradient
        inkscape:collect="always"
+       xlink:href="#swatch359"
+       id="linearGradient602"
+       x1="515.53015"
+       y1="573.21362"
+       x2="748.50031"
+       y2="573.21362"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch359"
+       id="linearGradient603"
+       x1="502.12888"
+       y1="573.21362"
+       x2="761.90161"
+       y2="573.21362"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch592"
+       id="linearGradient725"
+       gradientUnits="userSpaceOnUse"
+       x1="204.92383"
+       y1="321.10352"
+       x2="213.72461"
+       y2="321.10352" />
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#swatch592"
        id="linearGradient730"
        x1="573.35516"
@@ -129,7 +156,16 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch592"
-       id="linearGradient760"
+       id="linearGradient732"
+       x1="204.92383"
+       y1="321.10352"
+       x2="213.72461"
+       y2="321.10352"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch592"
+       id="linearGradient1"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.14923932,0,0,0.14923932,108.52949,206.96933)"
        x1="532.2818"
@@ -139,7 +175,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch592"
-       id="linearGradient761"
+       id="linearGradient2"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.14923932,0,0,0.14923932,108.52949,207.16889)"
        x1="532.2818"
@@ -149,7 +185,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch592"
-       id="linearGradient762"
+       id="linearGradient3"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.14923932,0,0,0.14923932,108.52949,207.06937)"
        x1="532.5697"
@@ -159,7 +195,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch592"
-       id="linearGradient763"
+       id="linearGradient4"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.14923932,0,0,0.14923932,108.52949,207.16889)"
        x1="534.24487"
@@ -169,7 +205,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch592"
-       id="linearGradient764"
+       id="linearGradient5"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.14923932,0,0,0.14923932,108.52949,207.16889)"
        x1="574.50177"
@@ -179,76 +215,75 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch592"
-       id="linearGradient765"
+       id="linearGradient6"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.14923932,0,0,0.14923932,108.52949,207.16889)"
        x1="574.50177"
        y1="517.1062"
        x2="731.74872"
        y2="517.1062" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch592"
-       id="linearGradient766"
-       gradientUnits="userSpaceOnUse"
-       x1="162.7305"
-       y1="292.87009"
-       x2="183.46661"
-       y2="292.87009" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch592"
-       id="linearGradient767"
-       gradientUnits="userSpaceOnUse"
-       x1="162.7305"
-       y1="292.87009"
-       x2="183.46661"
-       y2="292.87009" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-157.7305,-275.55972)">
+     transform="translate(-178.46661,-271.05994)">
     <g
        id="g19"
        inkscape:label="cwrunix logo"
        style="display:inline">
       <g
+         id="g733"
+         inkscape:label="Keychain">
+        <path
+           id="path602"
+           style="font-variation-settings:normal;display:inline;opacity:1;fill:url(#linearGradient603);fill-opacity:1;stroke:url(#linearGradient602);stroke-width:26.8026;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 574.50096,475.01594 -58.97248,66.6111 v 129.78725 h 174.00189 l 58.96902,-66.61456 V 475.01594 Z"
+           inkscape:label="Outline"
+           transform="matrix(0.14923932,0,0,0.14923932,108.52949,207.16889)" />
+        <path
+           style="font-variation-settings:normal;display:inline;opacity:1;fill:url(#linearGradient725);fill-opacity:1;stroke:url(#linearGradient732);stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 213.72461,317.6417 v -1.50889 l -8.80078,9.94141 h 1.3343 z"
+           id="path610"
+           sodipodi:nodetypes="ccccc"
+           transform="translate(-19.8314,-38.404917)"
+           inkscape:label="Keyhole" />
+      </g>
+      <g
          id="g751"
          inkscape:label="Logo Text">
         <text
            xml:space="preserve"
-           style="font-size:10px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0.216678px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:url(#linearGradient760);fill-opacity:1;stroke:url(#linearGradient761);stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           style="font-size:10px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0.216678px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:url(#linearGradient1);fill-opacity:1;stroke:url(#linearGradient2);stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            x="187.22467"
            y="304.72845"
            id="text1034-9-8"
            inkscape:label="club"><tspan
              sodipodi:role="line"
              id="tspan1034-2-9"
-             style="font-weight:bold;font-size:10px;letter-spacing:0.216678px;fill:url(#linearGradient760);fill-opacity:1;stroke:url(#linearGradient761);stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+             style="font-weight:bold;font-size:10px;letter-spacing:0.216678px;fill:url(#linearGradient1);fill-opacity:1;stroke:url(#linearGradient2);stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
              x="187.22467"
              y="304.72845">Club</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:10.2339px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0.216678px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:url(#linearGradient762);fill-opacity:1;stroke:url(#linearGradient763);stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           style="font-size:10.2339px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0.216678px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:url(#linearGradient3);fill-opacity:1;stroke:url(#linearGradient4);stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
            x="187.16119"
            y="269.70615"
            id="text1039-2-7"
            inkscape:label="linux text"><tspan
              sodipodi:role="line"
              id="tspan1036-8-7"
-             style="letter-spacing:0.216678px;fill:url(#linearGradient762);fill-opacity:1;stroke:url(#linearGradient763);stroke-width:0.4;stroke-dasharray:none"
+             style="letter-spacing:0.216678px;fill:url(#linearGradient3);fill-opacity:1;stroke:url(#linearGradient4);stroke-width:0.4;stroke-dasharray:none"
              x="187.16119"
              y="269.70615" /><tspan
              sodipodi:role="line"
-             style="font-weight:bold;letter-spacing:0.216678px;fill:url(#linearGradient762);fill-opacity:1;stroke:url(#linearGradient763);stroke-width:0.4;stroke-dasharray:none"
+             style="font-weight:bold;letter-spacing:0.216678px;fill:url(#linearGradient3);fill-opacity:1;stroke:url(#linearGradient4);stroke-width:0.4;stroke-dasharray:none"
              x="187.16119"
              y="282.49854"
              id="tspan1037-9-6" /><tspan
              sodipodi:role="line"
-             style="font-weight:bold;font-size:10px;letter-spacing:0.216678px;fill:url(#linearGradient762);fill-opacity:1;stroke:url(#linearGradient763);stroke-width:0.4;stroke-dasharray:none"
+             style="font-weight:bold;font-size:10px;letter-spacing:0.216678px;fill:url(#linearGradient3);fill-opacity:1;stroke:url(#linearGradient4);stroke-width:0.4;stroke-dasharray:none"
              x="187.16119"
              y="295.29089"
              id="tspan1039-6-4">L nux</tspan></text>
@@ -261,69 +296,17 @@
            sodipodi:nodetypes="ccccccccccc" />
         <text
            xml:space="preserve"
-           style="font-size:10px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0.216678px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:url(#linearGradient764);fill-opacity:1;stroke:url(#linearGradient765);stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           style="font-size:10px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0.216678px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:url(#linearGradient5);fill-opacity:1;stroke:url(#linearGradient6);stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            x="193.52556"
            y="287.9816"
            id="text1041-1-3"
            inkscape:label="cwru"><tspan
              sodipodi:role="line"
              id="tspan1041-2-0"
-             style="font-weight:bold;font-size:10px;letter-spacing:0.216678px;fill:url(#linearGradient764);fill-opacity:1;stroke:url(#linearGradient765);stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+             style="font-weight:bold;font-size:10px;letter-spacing:0.216678px;fill:url(#linearGradient5);fill-opacity:1;stroke:url(#linearGradient6);stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
              x="193.52556"
              y="287.9816">CWRU</tspan></text>
       </g>
-      <text
-         xml:space="preserve"
-         style="font-size:2.66823px;line-height:1.2;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:url(#linearGradient766);fill-opacity:1;stroke:url(#linearGradient767);stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none"
-         x="162.7305"
-         y="281.82767"
-         id="text516-3"
-         inkscape:label="logo graphics"><tspan
-           style="font-weight:bold;font-size:2.66823px;letter-spacing:0px;fill:url(#linearGradient766);stroke:url(#linearGradient767);stroke-width:0"
-           x="162.7305"
-           y="281.82767"
-           id="tspan523-5"
-           sodipodi:role="line">    .---.</tspan><tspan
-           style="font-weight:bold;font-size:2.66823px;letter-spacing:0px;fill:url(#linearGradient766);stroke:url(#linearGradient767);stroke-width:0"
-           x="162.7305"
-           y="285.02954"
-           sodipodi:role="line"
-           id="tspan13-6">   /     \</tspan><tspan
-           style="font-weight:bold;font-size:2.66823px;letter-spacing:0px;fill:url(#linearGradient766);stroke:url(#linearGradient767);stroke-width:0"
-           x="162.7305"
-           y="288.23141"
-           sodipodi:role="line"
-           id="tspan14-2">   \.@-@./</tspan><tspan
-           style="font-weight:bold;font-size:2.66823px;letter-spacing:0px;fill:url(#linearGradient766);stroke:url(#linearGradient767);stroke-width:0"
-           x="162.7305"
-           y="291.43329"
-           sodipodi:role="line"
-           id="tspan15-9">   /`\_/`\</tspan><tspan
-           style="font-weight:bold;font-size:2.66823px;letter-spacing:0px;fill:url(#linearGradient766);stroke:url(#linearGradient767);stroke-width:0"
-           x="162.7305"
-           y="294.63516"
-           sodipodi:role="line"
-           id="tspan16-1">  //     \\</tspan><tspan
-           style="font-weight:bold;font-size:2.66823px;letter-spacing:0px;fill:url(#linearGradient766);stroke:url(#linearGradient767);stroke-width:0"
-           x="162.7305"
-           y="297.83704"
-           sodipodi:role="line"
-           id="tspan17-2"> | (     )|_</tspan><tspan
-           style="font-weight:bold;font-size:2.66823px;letter-spacing:0px;fill:url(#linearGradient766);stroke:url(#linearGradient767);stroke-width:0"
-           x="162.7305"
-           y="301.03891"
-           sodipodi:role="line"
-           id="tspan18-7">/`\_`&gt;  &lt;_/ \</tspan><tspan
-           style="font-weight:bold;font-size:2.66823px;letter-spacing:0px;fill:url(#linearGradient766);stroke:url(#linearGradient767);stroke-width:0"
-           x="162.7305"
-           y="304.24081"
-           sodipodi:role="line"
-           id="tspan19-0">\__/'---'\__/</tspan><tspan
-           style="font-weight:bold;font-size:2.66823px;letter-spacing:0px;fill:url(#linearGradient766);stroke:url(#linearGradient767);stroke-width:0"
-           x="162.7305"
-           y="307.44269"
-           sodipodi:role="line"
-           id="tspan20-9" /></text>
     </g>
   </g>
 </svg>
