@@ -2,22 +2,22 @@
     {
         "id": "Trevor",
         "NAME": "Trevor Nichols",
-        "ROLE": "President and Treasurer"
+        "ROLE": "President"
     },
     {
-        "id": "Wolf",
-        "NAME": "Wolf Mermelstein",
-        "ROLE": "VP and Treasurer"
+        "id": "Brandon",
+        "NAME": "Brandon Li",
+        "ROLE": "Vice President"
     },
     {
-        "id": "Evan",
-        "NAME": "Evan Harnak",
+        "id": "Amelia",
+        "NAME": "Amelia Magdovitz",
+        "ROLE": "Treasurer & Risk"
+    },
+    {
+        "id": "Catrina",
+        "NAME": "Catrina Chen",
         "ROLE": "Secretary"
-    },
-    {
-        "id": "Matias",
-        "NAME": "Matias Torres",
-        "ROLE": "Risk Manager"
     },
     {
         "id": "Remy",
